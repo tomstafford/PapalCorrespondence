@@ -1,0 +1,81 @@
+year,month,day,Book,number,place,recipient,Location of pope,clerical/secular
+1073,April,23,1,1,Monte Cassino,abbot ,Rome,c
+1073,April,23,1,2,Salerno,prince,Rome,s
+1073,April,26,1,3,Ravenna,archbishop,Rome,c
+1073,April,29,1,5,Florence,bishop,Rome,c
+1073,April,28,1,4,Canossa,duchess,Rome,s
+1073,April,28,1,4,Cluny,abbot ,Rome,c
+1073,April,28,1,4,Reims,archbishop,Rome,c
+1073,April,28,1,4,Marseille,abbot ,Rome,c
+1073,April,28,1,4,Copenhagen,king,Rome,s
+1073,April,30,1,7,Roucy,baron,Rome,s
+1073,May,6,1,9,Bouillon,duke,Rome,s
+1073,June,1,1,10,Imola,count,Rome,s
+1073,June,24,1,11,Canossa,countess,Rome,s
+1073,June,29,1,12,Pavia,bishop,Rome,c
+1073,June,30,1,13,Reims,archbishop,Rome,c
+1073,June,30,1,14,Cluny,abbot ,Rome,c
+1073,July,1,1,15,Milan,barons,Rome,s
+1073,July,8,1,17,Prague,duke,Laurentum,s
+1073,July,9,1,18,Istanbul,emperor,Albano,s
+1073,August,12,1,18a,Benevento,prince,Benevento,s
+1073,September ,1,1,19,Konstanz,duke,Capua,s
+1073,September ,1,1,20,Como,bishop,Capua,c
+1073,September ,1,1,21,Lucca,bishop,Capua,c
+1073,September ,15,1,22,Carthage,people,Capua,s
+1073,September ,15,1,23,Carthage,bishop,Capua,c
+1073,September ,24,1,24,Verona,bishop,Capua,c
+1073,September ,27,1,25,Milan,knight,Capua,s
+1073,October,13,1,27,Acqui,cleric,Capua,c
+1073,October,13,1,28,Pavia,bishop,Capua,c
+1073,October,14,1,29,Cagliari,judges,Capua,s
+1073,November,15,1,30,Salzburg,archbishop,Capua,c
+1073,November,20,1,31,Canterbury,archbishop,San Germano,c
+1073,November,27,1,32,Chartres,bishop,argentea ,c
+1073,November,28,1,33,Tortona,abbot ,argentea ,c
+1073,December,2,1,34,Lincoln,bishop,Terracina,c
+1073,December,4,1,35,Chalon sur Saone,bishop,Piperno,c
+1073,December,4,1,36,Lyon,bishop,Piperno,c
+1073,December,7,1,37,Turin,countess,Sezze,s
+1073,December,17,1,38,Prague,duke,Rome,s
+1073,December,20,1,39,Magdeburg,princes,Rome,s
+1074,January,3,1,40,Canossa,countess,Rome,s
+1074,January,16,1,41,Cagliari,judge,Rome,s
+1074,January,24,1,42,Aquileia,archbishop,Rome,c
+1074,January,25,1,43,Milan,bishop,Rome,c
+1074,January,31,1,44,Prague,bishop,Rome,c
+1074,January,31,1,45,Prague,duke,Rome,s
+1074,February,2,1,46,Poitiers,duke,Rome,s
+1074,February,16,1,47,Canossa,countess,Rome,s
+1074,February,26,1,48,Genoa,bishop,Rome,c
+1074,March,4,1,50,Canossa,countess,Rome,s
+1074,March,14,1,51,Saint-Sever,abbot ,Rome,c
+1074,March,14,1,52,Reims,archbishop,Rome,c
+1074,March,14,1,53,Metz,bishop,Rome,c
+1074,March,16,1,54,Poitiers,canons,Rome,c
+1074,March,16,1,55,Tarbes,bishop,Rome,c
+1074,March,17,1,56,Chalons-en-Champagne,bishop,Rome,c
+1074,March,17,1,57,Pavia,bishop,Rome,c
+1074,March,17,1,58,Budapest,duke,Rome,s
+1074,March,17,1,59,Olomouc ,nobles,Rome,s
+1074,March,18,1,60,Mainz,archbishop,Rome,c
+1074,March,18,1,61,Prague,duke,Rome,s
+1074,March,19,1,62,Cluny,abbot ,Rome,c
+1074,March,20,1,63,Zaragoza,king,Rome,s
+1074,March,19,1,64,Leon,king,Rome,s
+1074,March,20,1,65,Ragusa,people,Rome,s
+1074,March,20,1,66,Antrodoco,monks,Rome,c
+1074,March,21,1,67,Sisteron,bishop,Rome,c
+1074,March,22,1,68,Nimes,bishop,Rome,c
+1074,March,23,1,69,Die,count,Rome,s
+1074,April,4,1,70,London,king,Rome,s
+1074,April,4,1,71,London,queen,Rome,s
+1074,April,7,1,72,Bouillon,duke,Rome,s
+1074,April,12,1,73,Poitiers,bishop,Rome,c
+1074,April,13,1,74,Beauvais,people,Rome,c
+1074,April,13,1,75,Paris,king,Rome,s
+1074,April,15,1,76,Lyon,archbishop,Rome,c
+1074,April,15,1,77,Canossa,countess,Rome,s
+1074,April,16,1,78,Prague,bishop,Rome,c
+1074,April,18,1,79,Cologne,archbishop,Rome,c
+1074,April,13,1,80,Le Puy,bishop,Rome,c
