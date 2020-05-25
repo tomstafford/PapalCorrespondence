@@ -388,7 +388,7 @@ summary {
 </div>
 <div id="creating-the-data" class="section level1">
 <h1>Creating the data</h1>
-<p>The letters are recored in 9 (?) published registers, available in PDF. The major work is to systemmatically record details of each letter in a spreadsheet, looking something like this:</p>
+<p>The letters are recorded in 9 (?) published registers, available in PDF. The major work is to systemmatically record details of each letter in a spreadsheet, looking something like this:</p>
 <pre><code>##    year  month  day  ...   recipient Location of pope clerical/secular
 ## 0  1073  April   23  ...      abbot              Rome                c
 ## 1  1073  April   23  ...      prince             Rome                s
@@ -442,42 +442,42 @@ summary {
 ## countess       6
 ## king           5
 ## people         3
-## prince         2
 ## count          2
-## knight         1
-## cleric         1
-## emperor        1
-## monks          1
-## judges         1
+## prince         2
+## queen          1
 ## princes        1
-## duchess        1
+## cleric         1
+## nobles         1
 ## baron          1
 ## barons         1
-## canons         1
-## nobles         1
+## judges         1
+## emperor        1
+## knight         1
+## duchess        1
 ## judge          1
-## queen          1
+## canons         1
+## monks          1
 ## Name: recipient, dtype: int64</code></pre>
 <p>Note how “baron” and “barons” are counted as seperate entries. It is possible to catch these things after data tabulation, but it is easier if we anticipate and enter the original data in a way that means letters we think are the same are tabulated as such.</p>
 <p>In this case, you could imagine having a single column “recipient type” and another “recipient number”, so that “baron” and “barons” both got recorded as “baron” (under recipient type) and as “solo” and “multiple” (under recipient number, respectively). <span class="math inline">\(~\)</span></p>
 <p>Here are the top 15 most frequent receipient places:</p>
 <pre class="python"><code>
 df_locs[&#39;place&#39;].value_counts().head(15)</code></pre>
-<pre><code>## Canossa      6
-## Prague       6
-## Poitiers     3
-## Pavia        3
-## Milan        3
-## Reims        3
-## Cluny        3
-## Bouillon     2
-## Lyon         2
-## London       2
-## Cagliari     2
-## Carthage     2
-## Istanbul     1
-## Roucy        1
-## Marseille    1
+<pre><code>## Prague      6
+## Canossa     6
+## Cluny       3
+## Reims       3
+## Poitiers    3
+## Pavia       3
+## Milan       3
+## Carthage    2
+## Cagliari    2
+## Bouillon    2
+## London      2
+## Lyon        2
+## Genoa       1
+## Beauvais    1
+## Salzburg    1
 ## Name: place, dtype: int64</code></pre>
 <p><span class="math inline">\(~\)</span></p>
 <p>Here is a map of numerical average of all the longtidude and latitudes of the receipients. Note it isn’t clear what, if any, sense this makes, but it is suggestive of a kind of “center of gravity” of targets of papal correspondance.</p>

@@ -40,7 +40,7 @@ To take the Correspondance of Pope Gregory VII (1075-1085) and tabulate it (acco
 
 # Creating the data
 
-The letters are recored in 9 (?) published registers, available in PDF. The major work is to systemmatically record details of each letter in a spreadsheet, looking something like this:
+The letters are recorded in 9 (?) published registers, available in PDF. The major work is to systemmatically record details of each letter in a spreadsheet, looking something like this:
 
 ```{python, results=TRUE}
 df=pd.read_csv('data/gregory_vii_book1.csv') # this is the form we expect to get the data
