@@ -256,3 +256,10 @@ plt.savefig('map_book1_center.png',dpi=320,bbox_inches='tight')
 $~$
 
 Any suggestions for other possible analyses we can anticipate making?
+
+
+$~$
+
+## Colophon
+
+This is an HTML page served by Github pages, generated from an RMarkdown document which uses the reticulate package to allow embedding of Python code. Files are all held in the github repositry: [github.com/tomstafford/PapalCorrespondence/](https://github.com/tomstafford/PapalCorrespondence/)
