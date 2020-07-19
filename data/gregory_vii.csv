@@ -1,0 +1,377 @@
+year,month,day,Book,number,place,point/region,locate_as,recipient (s),clerical/secular,individual/several individuals/group,Location of pope,locate_as_pope,number of words,gender (m/f),Encouragement/ Inform/ Request/ Instruction / Warning (E/Inf/R/Ins/W),Revisit,notes,lat,lon,geo,pope_lat,pope_lon
+1073,April,23,1,1,Monte Cassino,p,,abbot,c,i,Rome,,359,m,"inf, ins",,,[41.49],[13.81388889],map,41.88333333,12.5
+1073,April,23,1,2,Salerno,p,,prince,s,i,Rome,,133,m,"inf, ins",,,[40.68333333],[14.76666667],map,41.88333333,12.5
+1073,April,26,1,3,Ravenna,p,Ravenna Cathedral,archbishop,c,i,Rome,,558,m,inf,,Located as Ravenna Cathedral for mapping purposes. ,[44.4156],[12.1966],map,41.88333333,12.5
+1073,April,29,1,5,Florence,p,,bishop,c,i,Rome,,236,m,ins,,,[43.78333333],[11.25],map,41.88333333,12.5
+1073,April,28,1,4,Tuscany,r,Canossa Castle,duchess,s,si,Rome,,562,f,inf,,Not stated content or words. But noted as a 'version' of previous letter with altered towards end depending on recipient and so Word count and tone taken as the same for all with 562 words,[44.576],[10.456],map,41.88333333,12.5
+1073,April,28,1,4,Cluny,p,,abbot,c,i,Rome,,562,m,inf,,,[46.43416667],[4.65916667],map,41.88333333,12.5
+1073,April,28,1,4,Reims,p,,archbishop,c,i,Rome,,562,m,inf,,,[49.2628],[4.0347],map,41.88333333,12.5
+1073,April,28,1,4,Marseille,p,,abbot,c,i,Rome,,562,m,inf,,,[43.2964],[5.37],map,41.88333333,12.5
+1073,April,28,1,4,Denmark,r,Copenhagen,king,s,i,Rome,,562,m,inf,,Taken to be in Copenhagen.,[55.67611111],[12.56833333],map,41.88333333,12.5
+1073,April,30,1,6,Gaul,r,Paris,legate,c,si,Rome,,779,m,"inf, r",,Taken to be in Paris because Gerald held council there,[48.856613],[2.352222],map,41.88333333,12.5
+1073,April,30,1,7,Gaul ,r,Paris,baron,s,si,Rome,,503,m,w,,Taken to be in Paris because linked to previous,[48.856613],[2.352222],map,41.88333333,12.5
+1073,April,30,1,8,n/a,n/a,,legate,c,si,Rome,,292,m,"inf, ins",,,,,NO MAP,41.88333333,12.5
+1073,May,6,1,9,Lower Lorraine,r,Bouillon,duke,s,i,Rome,,633,m,"e, inf",,Taken to be in Bouillon.,[49.7955],[5.068],map,41.88333333,12.5
+1073,June,1,1,10,Imola,p,,count,s,i,Rome,,365,m,ins,,,[44.35305556],[11.71472222],map,41.88333333,12.5
+1073,June,24,1,11,Tuscany,r,Canossa Castle,countess,s,si,Rome,,699,f,"r, inf",,Taken to be in Canossa.,[44.576],[10.456],map,41.88333333,12.5
+1073,June,29,1,12,Pavia,p,,bishop,c,i,Rome,,490,m,r,,,[45.18333333],[9.15],map,41.88333333,12.5
+1073,June,30,1,13,Reims,p,,archbishop,c,i,Rome,,587,m,w,,,[49.2628],[4.0347],map,41.88333333,12.5
+1073,June,30,1,14,Cluny,p,,abbot,c,i,Rome,,218,m,r,,,[46.43416667],[4.65916667],map,41.88333333,12.5
+1073,July,1,1,15,Lombardy,r,Milan,clergy,c,g,Rome,,636,m,w,,"Located as Milan, refers generally to Lombardy.",[45.46694444],[9.19],map,41.88333333,12.5
+1073,July,1,1,16,Spain ,r,León Spain,legate,c,i,Rome,,654,m,ins,,Taken to be in Leon.,[42.60555556],[-5.57],map,41.88333333,12.5
+1073,July,8,1,17,Bohemia,r,Prague ,duke,s,i,Laurentum,Ostia,608,m,"r, w",,Taken to be in Prague; Laurentum lost site near Ostia,[50.08333333],[14.41666667],map,41.75583333,12.29166667
+1073,July,9,1,18,Constantinople ,p,Istanbul,emperor,s,i,Albano,,342,m,"e, ins",,Taken to be in Istanbul.,[41.01361111],[28.955],map,41.73333333,12.66666667
+1073,August,12,1,18a,Benevento,p,,prince,s,si,Benevento,,294,m,"w, ins",,,[41.13333333],[14.78333333],map,41.13333333,14.78333333
+1073,September,1,1,19,Swabia,r,Konstanz,duke,s,i,Capua,Sant%27Angelo_in_Formis,492,m,"e, r",,Taken to be in Konstanz.,[47.66666667],[9.18333333],map,41.885,12.49666667
+1073,September,1,1,20,Como,p,,bishop,c,i,Capua,Sant%27Angelo_in_Formis,750,m,"ins, e",,,[45.81666667],[9.08333333],map,41.885,12.49666667
+1073,September,1,1,21,Lucca,p,,bishop,c,i,Capua,Sant%27Angelo_in_Formis,243,m,ins,,,[43.84166667],[10.50277778],map,41.885,12.49666667
+1073,September,15,1,22,Carthage,p,Tunis,people,"s, c",g,Capua,Sant%27Angelo_in_Formis,995,"m, f",w,,Located as Tunis for mapping purposes. ,[36.80638889],[10.18166667],map,41.885,12.49666667
+1073,September,15,1,23,Carthage,p,Tunis,bishop,c,i,Capua,Sant%27Angelo_in_Formis,507,m,"e, ins",,As above. ,[36.80638889],[10.18166667],map,41.885,12.49666667
+1073,September,24,1,24,Verona,p,,bishop,c,i,Capua,Sant%27Angelo_in_Formis,304,m,r,,,[45.43861111],[10.99277778],map,41.885,12.49666667
+1073,September,27,1,25,Milan,p,,knight,s,i,Capua,Sant%27Angelo_in_Formis,325,m,"inf, e",,,[45.46694444],[9.19],map,41.885,12.49666667
+1073,October,9,1,26,Milan ,p,,knight,s,i,Capua,Sant%27Angelo_in_Formis,384,m,"inf, e",,,[45.46694444],[9.19],map,41.885,12.49666667
+1073,October,13,1,27,Acqui,p,Acqui Terme,cleric,c,i,Capua,Sant%27Angelo_in_Formis,349,m,"e, r",,,[44.68333333],[8.46666667],map,41.885,12.49666667
+1073,October,13,1,28,Pavia,p,,bishop,c,i,Capua,Sant%27Angelo_in_Formis,267,m,"e, r",,,[45.18333333],[9.15],map,41.885,12.49666667
+1073,October,14,1,29,Sardinia,r,Cagliari,judges,s,si,Capua,Sant%27Angelo_in_Formis,386,m,ins,,Located as Cagliari. Refers generally to judges of Sardinia. ,[39.22777778],[9.11111111],map,41.885,12.49666667
+1073,November,15,1,30,Salzburg,p,,archbishop,c,i,Capua,Sant%27Angelo_in_Formis,338,m,w,,,[47.8],[13.03333333],map,41.885,12.49666667
+1073,November,20,1,31,Canterbury,p,,archbishop,c,i,San Germano,Cassino,410,m,r,,,[51.28],[1.08],map,41.5,13.83333333
+1073,November,27,1,32,Chartres,p,,bishop,c,i,Argentea,Ferrara,302,m,ins,,"Identified as Traetto in edition, modern Minturno",[48.456],[1.484],map,44.83333333,11.61666667
+1073,November,28,1,33,Tortona,p,,abbot,c,si,Argentea,Ferrara,419,m,ins,,,[44.89416667],[8.86555556],map,44.83333333,11.61666667
+1073,December,2,1,34,Lincoln,p,Lincoln Cathedral,bishop,c,i,Terracina,,293,m,"ins, e",,,[53.23444444],[-0.53611111],map,41.4667,12.9
+1073,December,4,1,35,Chalon-sur-Saône,p,,bishop,c,i,Piperno,Priverno,556,m,w,,City changed name in 1927,[46.7806],[4.8528],map,41.4667,12.9
+1073,December,4,1,36,Lyon,p,,bishop,c,i,Piperno,Priverno,319,m,r,,City changed name in 1927,[45.76],[4.84],map,41.4667,12.9
+1073,December,7,1,37,Turin,p,,countess,s,i,Sezze,,388,f,ins,,,[45.07916667],[7.67611111],map,41.4667,12.9
+1073,December,17,1,38,Bohemia,r,Prague,duke,s,i,Rome,,432,m,"e, inf",,Taken to be in Prague.,[50.08333333],[14.41666667],map,41.88333333,12.5
+1073,December,20,1,39,Saxony,r,Magdeburg,princes,s,si,Rome,,572,m,"r, inf",,Taken to be in Magdeburg.,[52.13333333],[11.61666667],map,41.88333333,12.5
+1074,January,3,1,40,Tuscany,r,Canossa Castle,countess,s,i,Rome,,254,f,"e, r",,Taken to be in Canossa. ,[44.576],[10.456],map,41.88333333,12.5
+1074,January,16,1,41,Cagliari,p,,judge,s,si,Rome,,192,m,"e, ins",,,[39.22777778],[9.11111111],map,41.88333333,12.5
+1074,January,24,1,42,Aquileia,p,Aquileia Basilica,archbishop,c,i,Rome,,469,m,ins,,Located as basillica for mapping purposes. ,[45.769725],[13.37119167],map,41.88333333,12.5
+1074,January,25,1,43,Lombardy,r,Milan,"bishop, abbot",c,si,Rome,,348,m,ins,,Located as Milan for mapping purposes.,[45.46694444],[9.19],map,41.88333333,12.5
+1074,January,31,1,44,Prague,p,,bishop,c,i,Rome,,397,m,ins,,,[50.08333333],[14.41666667],map,41.88333333,12.5
+1074,January,31,1,45,Bohemia,r,Prague,duke,s,i,Rome,,320,m,r,,Taken to be in Prague.,[50.08333333],[14.41666667],map,41.88333333,12.5
+1074,February,2,1,46,Burgundy,r,Lyons,duke,s,i,Rome,,204,m,"r, e",,"Specifically marked dictation of Pope, taken to be in Lyon",[45.76],[4.84],map,41.88333333,12.5
+1074,February,16,1,47,Tuscany,r,Canossa Castle,countess,s,i,Rome,,1016,f,e,,Taken to be in Canossa. ,[44.576],[10.456],map,41.88333333,12.5
+1074,February,26,1,48,Genoa,p,,"bishop, people","c, s",g,Rome,,347,"m, f",w,,,[44.41111111],[8.93277778],map,41.88333333,12.5
+1074,March,1,1,49,n/a,n/a,,people,"c, s",g,Rome,,365,"m, f",r,,n/a is due to fact entry is a 'general summons to the defence of the Byzantine Empire'.,,,NO MAP,41.88333333,12.5
+1074,March,4,1,50,Tuscany,r,Canossa Castle,countess,s,si,Rome,,542,f,"e, r",,Taken to be in Canossa.,[44.576],[10.456],map,41.88333333,12.5
+1074,March,14,1,51,Saint-Sever,p,Saint-Sever Abbey,abbot,c,i,Rome,,284,m,w,,Located as Saint-Sever Abbey for mapping. ,[43.7597],[-0.5742],map,41.88333333,12.5
+1074,March,14,1,52,Reims,p,,archbishop,c,i,Rome,,344,m,ins,,,[49.2628],[4.0347],map,41.88333333,12.5
+1074,March,14,1,53,Metz,p,,bishop,c,i,Rome,,402,m,"e, r, inf",,,[49.12027778],[6.17777778],map,41.88333333,12.5
+1074,March,16,1,54,Poitiers,p,,canon,c,si,Rome,,331,m,"ins, inf",,,[46.58],[0.34],map,41.88333333,12.5
+1074,March,16,1,55,Tarbes,p,,"bishop, suffragan",c,si,Rome,,174,m,w,,,[43.23],[0.07],map,41.88333333,12.5
+1074,March,17,1,56,Châlons-en-Champagne,p,,bishop,c,i,Rome,,214,m,w,,,[48.9575],[4.365],map,41.88333333,12.5
+1074,March,17,1,57,Pavia,p,,bishop,c,i,Rome,,208,m,"inf, ins",,,[45.18333333],[9.15],map,41.88333333,12.5
+1074,March,17,1,58,Hungary,r,Székesfehérvár,duke,s,i,Rome,,395,m,e,,Taken to be in Székesfehérvár.,[47.19555556],[18.40888889],map,41.88333333,12.5
+1074,March,17,1,59,Bohemia,r,Prague,noble,s,si,Rome,,221,m,w,,Taken to be in Prague.,[50.08333333],[14.41666667],map,41.88333333,12.5
+1074,March,18,1,60,Mainz,p,,archbishop,c,i,Rome,,619,m,w,,,[50],[8.26666667],map,41.88333333,12.5
+1074,March,18,1,61,Bohemia,r,Prague,duke,s,i,Rome,,320,m,"e, inf",,Taken to be in Prague.,[50.08333333],[14.41666667],map,41.88333333,12.5
+1074,March,19,1,62,Cluny,p,,abbot,c,i,Rome,,441,m,ins,,,[46.43416667],[4.65916667],map,41.88333333,12.5
+1074,March,20,1,63,Aragon,r,Zaragoza,king,s,i,Rome,,392,m,"e, inf",,"Taken to be in Zaragoza,",[41.65],[-0.88333333],map,41.88333333,12.5
+1074,March,19,1,64,"León-Castile, Navarre",r,"León Spain, Navarre","king, bishop",s,si,Rome,,476,m,"r, inf",,King located in León for mapping. ,"[42.60555556, 42.81666667]","[-5.57, -1.65]",map,41.88333333,12.5
+1074,March,20,1,65,Ragusa,p,Ragusa Cathedral,people,s,g,Rome,,287,"m, f",w,,,[36.9257],[14.7287],map,41.88333333,12.5
+1074,March,20,1,66,Antrodoco,p,,"monk, laity","c, s",g,Rome,,191,"m, f",w,,,[42.41666667],[13.08333333],map,41.88333333,12.5
+1074,March,21,1,67,Sisteron,p,,bishop,c,i,Rome,,155,m,w,,,[44.1911],[5.9472],map,41.88333333,12.5
+1074,March,22,1,68,Nîmes,p,,bishop,c,i,Rome,,306,m,w,,,[43.838],[4.361],map,41.88333333,12.5
+1074,March,23,1,69,Die,p,Die Cathedral,count,s,i,Rome,,586,m,"inf, w",,Located at cathedral for mapping.,[44.75222222],[5.37111111],map,41.88333333,12.5
+1074,April,4,1,70,England,r,London,king,s,i,Rome,,801,m,"e, inf",,Taken to be in London.,[51.50722222],[-0.1275],map,41.88333333,12.5
+1074,April,4,1,71,England,r,London,queen,s,i,Rome,,190,f,e,,Taken to be in London.,[51.50722222],[-0.1275],map,41.88333333,12.5
+1074,April,7,1,72,Lorraine,r,Bouillon,duke,s,i,Rome,,283,m,w,,Taken to be in Bouillon,[49.7955],[5.068],map,41.88333333,12.5
+1074,April,12,1,73,Poitiers,p,,bishop,c,i,Rome,,303,m,ins,,,[46.58],[0.34],map,41.88333333,12.5
+1074,April,13,1,74,Beauvais,p,,people,"c, s",g,Rome,,283,"m, f","e, ins",,,[49.4303],[2.0952],map,41.88333333,12.5
+1074,April,13,1,75,France,r,Paris,king,s,i,Rome,,534,m,"r, e",,King taken to be in Paris,[48.856613],[2.352222],map,41.88333333,12.5
+1074,April,15,1,76,Lyon,p,,"archbishop, bishop",c,si,Rome,,297,m,"inf, r",,,[45.76],[4.84],map,41.88333333,12.5
+1074,April,15,1,77,Tuscany,r,Canossa Castle,countess,s,si,Rome,,768,f,"w, inf",,Taken to be in Canossa. ,[44.576],[10.456],map,41.88333333,12.5
+1074,April,16,1,78,Bohemia,r,Prague,bishop,c,i,Rome,,552,m,"inf, r",,Taken to be in Prague.,[50.08333333],[14.41666667],map,41.88333333,12.5
+1074,April,18,1,79,Cologne,p,,archbishop,c,i,Rome,,334,m,w,,,[50.93638889],[6.95277778],map,41.88333333,12.5
+1074,April,13,1,80,Le Puy-en-Velay,p,,people,"c, s",g,Rome,,223,"m, f","inf, ins",,Located as to assist mapping. ,[45.0442],[3.8858],map,41.88333333,12.5
+1074,May,6,1,81,Trier,p,,archbishop,c,i,Rome,,510,m,"ins, e",,,[49.75],[6.63333333],map,41.88333333,12.5
+1074,May,6,1,82,n/a,n/a,,people,"c, s",g,Rome,,585,"m, f","ins, w",,,,,NO MAP,41.88333333,12.5
+1074,May,9,1,83,León-Castille,r,León Spain,king,s,i,Rome,,352,m,"inf, r, e",,Taken to be in Leon. ,[42.60555556],[-5.57],map,41.88333333,12.5
+1074,June,12,1,84,Bamberg,p,,bishop,c,i,Near Monte Cimino,Monte Cimino,345,m,"ins, inf",,,[49.9],[10.9],map,42.419444,12.234167
+1074,June,15,1,85,Rome,p,,empress-mother,s,i,Fiano,Turin,824,f,"e, inf",,,[41.88333333],[12.5],map,45.07916667,7.67611111
+1074,August,28,2,1,Brittany ,r,Rennes,"bishop, abbot",c,g,Laurentum,Ostia,351,m,ins,,Taken to be in Rennes.,[48.1147],[-1.6794],map,41.75583333,12.29166667
+1074,September,10,2,2,Poitiers,p,,bishop,c,i,Tivoli,Tivoli Rome,375,m,w,,,[46.58],[0.34],map,41.95972222,12.79805556
+1074,September,10,2,3,Poitou,r,Poitiers,count,s,i,Tivoli,Tivoli Rome,535,m,"e, inf",,Taken to be in Poiters. ,[46.58],[0.34],map,41.95972222,12.79805556
+1074,September ,10,2,4,Bordeaux,p,,archbishop,c,i,Tivoli,Tivoli Rome,493,m,"inf, ins",,,[44.84],[-0.58],map,41.95972222,12.79805556
+1074,September,10,2,5,France,r,Paris,"archbishop, bishop",c,g,Tivoli,Tivoli Rome,1703,m,"w, inf",,Located as Paris. Refers generally to France,[48.856613],[2.352222],map,41.95972222,12.79805556
+1074,September ,22,2,6,Prague,p,,bishop,c,i,Rome,,662,m,w,,,[50.08333333],[14.41666667],map,41.88333333,12.5
+1074,September,22,2,7,Bohemia,r,Prague,duke,s,i,Rome,,513,m,"e, ins",,Taken to be in Prague. ,[50.08333333],[14.41666667],map,41.88333333,12.5
+1074,September,22,2,8,Olmütz,p,Olomouc ,bishop,c,i,Rome,,379,m,"e, ins",,Locate as used to assist mapping. ,[49.59388889],[17.25083333],map,41.88333333,12.5
+1074,October,16,2,9,Tuscany,p,Canossa Castle,countess,s,si,Rome,,731,f,"e, inf, r",,Taken to be in Canossa. ,[44.576],[10.456],map,41.88333333,12.5
+1074,October,16,2,10,Trier,p,,archbishop,c,i,Rome,,787,m,"inf, ins",,,[49.75],[6.63333333],map,41.88333333,12.5
+1074,October,26,2,11,Calw,p,,"count, countess",s,si,Rome,,281,"m, f","e, ins",,,[48.71666667],[8.73333333],map,41.88333333,12.5
+1074,October,26,2,12,Halberstadt,p,,bishop,c,i,Rome,,331,m,e,,,[51.89583333],[11.04666667],map,41.88333333,12.5
+1074,October,28,2,13,Hungary,r,Székesfehérvár,king,s,i,Rome,,389,m,w,,Taken to be in Székesfehérvár.,[47.19555556],[18.40888889],map,41.88333333,12.5
+1074,October,29,2,14,"Strassburg, Basle",p,"Strasbourg, Basel",bishop,c,si,Rome,,430,m,ins,,Locate as names altered to assist mapping.,"[48.58333333, 47.55472222]","[7.74583333, 7.59055556]",map,41.88333333,12.5
+1074,November,11,2,15,"Lyons, Autun, Mâcon ",p,"Lyon, Autun, Mâcon ","archbishop, bishop",c,si,Rome,,361,m,ins,,As above.,"[45.76, 46.9517, 46.3063]","[4.84, 4.2994, 4.8313]",map,41.88333333,12.5
+1074,November,11,2,16,Sens,p,,archbishop,c,i,Rome,,361,m,ins,,States this letter writes in identical terms to above so word count and mood are the same.,[48.1975],[3.2877],map,41.88333333,12.5
+1074,November,13,2,17,Perugia ,p,Perugia Cathedral,abbot,c,i,Rome,,285,m,w,,Located as cathedral for mapping. ,[43.112685],[12.389209],map,41.88333333,12.5
+1074,November,13,2,18,Poitou,r,Poitiers,count,s,i,Rome,,469,m,"r, inf",,Taken to be in Poiters. ,[46.58],[0.34],map,41.88333333,12.5
+1074,November,15,2,19,Bourges,p,,archbishop,c,i,Rome,,144,m,ins,,,[47.0844],[2.3964],map,41.88333333,12.5
+1074,November,15,2,20,Sens,p,,archbishop,c,i,Rome,,193,m,ins,,,[48.1975],[3.2877],map,41.88333333,12.5
+1074,November,15,2,21,Beaulieu,p,Périgueux,abbot,c,i,Rome,,161,m,w,,Located as Perigueux for mapping purposes. ,[45.1929],[0.7217],map,41.88333333,12.5
+1074,November,15,2,22,Sainte-Maure,p,Chinon,knight,s,i,Rome,,153,m,w,,Located as Chinon for mapping purposes.,[47.1678],[0.2436],map,41.88333333,12.5
+1074,November,16,2,23,Poitiers,p,,bishop,c,i,Rome,,194,m,w,,,[46.58],[0.34],map,41.88333333,12.5
+1074,November,16,2,24,"Bordeaux, Aquitane","p, r","Bordeaux, Poitiers","archbishop, duke","c, s",si,Rome,,157,m,"inf, ins",,Aquitaine  located as Poitiers for mapping. ,"[44.84, 46.58]","[-0.58, 0.34]",map,41.88333333,12.5
+1074,November,18,2,25,Cologne,p,,archbishop,c,i,Rome,,297,m,r,,,[50.93638889],[6.95277778],map,41.88333333,12.5
+1074,November,27,2,26,Piacenza,p,,bishop,c,i,Rome,,440,m,r,,,[45.04777778],[9.70055556],map,41.88333333,12.5
+1074,November,27,2,27,Piacenza,p,,monk,c,g,Rome,,196,m,ins,,,[45.04777778],[9.70055556],map,41.88333333,12.5
+1074,December,12,2,28,Bremen,p,,archbishop,c,i,Rome,,383,m,w,,,[53.08333333],[8.8],map,41.88333333,12.5
+1074,December,4,2,29,Mainz,p,,archbishop,c,i,Rome,,347,m,ins,,,[50],[8.26666667],map,41.88333333,12.5
+1074,December,7,2,30,Holy Roman Empire,r,Aachen,king,s,i,Rome,,678,m,"e, r, inf",,Taken to be in Aachen for this and below.,[50.77555556],[6.08361111],map,41.88333333,12.5
+1074,December,7,2,31,Holy Roman Empire,r,Aachen,king,s,i,Rome,,1089,m,"e, r, inf",,Specifically marked dictation of pope,[50.77555556],[6.08361111],map,41.88333333,12.5
+1074,December,8,2,32,Rheims,p,Reims,archbishop,c,i,Rome,,319,m,"ins, inf",,Name altered to assist mapping. ,[49.2628],[4.0347],map,41.88333333,12.5
+1074,December,12,2,33,Turin,p,,bishop,c,i,Rome,,216,m,w,,,[45.07916667],[7.67611111],map,41.88333333,12.5
+1074,December,13,2,34,n/a,n/a,,noble,s,i,Rome,,333,m,"e, ins",,Have called noble. Title in text is 'distinguished man'.,,,NO MAP,41.88333333,12.5
+1074,December,16,2,35,Pavia,p,,bishop,c,i,Rome,,283,m,w,,,[45.18333333],[9.15],map,41.88333333,12.5
+1074,December,16,2,36,Este,p,Villa_Contarini_(Este),marquise ,s,i,Rome,,222,f,w,,,[45.2306],[11.6567],map,41.88333333,12.5
+1074,December,16,2,37,Latin Christendom,r,n/a,people,"s, c",g,Rome,,328,m,r,,Specifically marked dictation of pope. Refers to all faithful of St Peter.,,,map,41.88333333,12.5
+1074,December,22,2,38,Fermo,p,Fermo Cathedral,"count, people",s,g,Rome,,330,"m, f",ins,,Located as cathedral for mapping purposes. ,[43.1611],[13.7164],map,41.88333333,12.5
+1074,December,31,2,39,Venice,p,,"doge, people",s,g,Rome,,671,"m, f",w,,,[45.4375],[12.33583333],map,41.88333333,12.5
+1075,January,2,2,40,"San Bonifazio, San Saba",r,Rome,legate,c,si,Rome,,296,m,e,,Letter sent to Rome as used for authority by legates. Located as Rome as both are Roman monasteries.,[41.88333333],[12.5],map,41.88333333,12.5
+1075,January,2,2,41,"Montefeltre, Gubbio",p,"Talamello, Gubbio",people,"s, c",g,Rome,,342,"m, f","ins, inf",,,"[43.9, 43.35]","[12.28333333, 12.566667]",map,41.88333333,12.5
+1075,January ,4,2,42,Ravenna,p,Ravenna Cathedral,archbishop,c,i,Rome,,208,m,r,,Located as Ravenna Cathedral for mapping purposes. ,[44.4156],[12.1966],map,41.88333333,12.5
+1075,January,5,2,43,Die,p,Die Cathedral,bishop,c,i,Rome,,176,m,ins,,Specifically marked dictation of pope.,[44.75222222],[5.37111111],map,41.88333333,12.5
+1075,January,10,2,44,Hungary,r,Székesfehérvár,queen,s,i,Rome,,732,f,"e, r",,Taken to be in Székesfehérvár. Marked as letter of 'pastoral solace'.,[47.19555556],[18.40888889],map,41.88333333,12.5
+1075,January,11,2,45,"Swabia, Carinthia",,"Konstanz, Klagenfurt",duke,s,si,Rome,,828,m,"ins, inf",,"Located as Konstanz, Klagenfurt for mapping purposes.","[47.66666667, 46.61666667]","[9.18333333, 14.3]",map,41.88333333,12.5
+1075,January ,13,2,46,"Montefeltre, Gubbio",r,"Talamello, Gubbio",legate,c,si,Rome,,250,m,ins,,"Located the same as 2.41 ,as in this letter it states these legates are being sent here. If travel A-B-C Rome, Gubbio, Montefeltre the journey is about 280k which is feasible in the 11 day span.","[43.9, 43.35]","[12.28333333, 12.566667]",map,41.88333333,12.5
+1075,January,13,2,47,Chiusi,p,,"noble, people",s,g,Rome,,448,"m, f",w,,,[43.01666667],[11.95],map,41.88333333,12.5
+1075,January,16,2,48,Italy,r,Pesaro,legate,c,si,Rome,,221,m,ins,,Decision taken to mark as Pesaro. Due to fact that Pesaro is around 89km from Gubbio and 67k from Montefeltre which is feasible in 3 day span and is where the legates were sent in 2.46,[43.91666667],[12.9],map,41.88333333,12.5
+1075,January,22,2,49,Cluny,p,,abbot,c,i ,Rome,,741,m,"e, inf",,Legates now being sent to warn Count Rainerius II of Spoleto-Camerino (identified from 2.47). Spoleto is around 167km from Pesaro according to google maps.,[46.43416667],[4.65916667],map,41.88333333,12.5
+1075,January,24,2,50,Aragon ,r,Zaragoza,king,s,i,Rome,,673,m,"e, inf, ins",,Taken to be in Zaragoza.,[41.65],[-0.88333333],map,41.88333333,12.5
+1075,January,25,2,51,Denmark,r,Copenhagen,king,s,i,Rome,,781,m,"e, r, inf",,Taken to be in Copenhagen.,[55.67611111],[12.56833333],map,41.88333333,12.5
+1075,February,28,2,52,Orléans,p,,clerk,s,i,Rome,,552,m,w,,,[47.9025],[1.909],map,41.88333333,12.5
+1075,March,2,2,53,n/a,n/a,,people,"c, s",g,Rome,,540,"m, f","inf, ins",,Recorded for the record so no location put.,,,NO MAP,41.88333333,12.5
+1075,March,3,2,54,Piacenza,p,,people,"c, s",g,Rome,,491,"m ,f ","inf, e",,,[45.04777778],[9.70055556],map,41.88333333,12.5
+1075,March,3,2,55,Lodi,p,Lodi Italy,clergy,c,g,Rome,,378,m,"ins, e",,Adressed to all the faithful. Have recorded as male as explicitly says 'sons' of the church. Have recorded as clergy as states 'our brother and fellow-bishop' ,[45.31666667],[9.5],map,41.88333333,12.5
+1075,March,n/a,2,55a,n/a,n/a,,n/a,n/a,n/a,n/a,,433,n /a,"ins, inf",,Included as marked specifically dictation of pope. Also is '27 preposistions' about papal authority. ,,,NO MAP,41.88333333,12.5
+1075,March,4,2,56,Rheims,p,Reims,archbishop,c,i,Rome,,381,m,w,,,[49.2628],[4.0347],map,41.88333333,12.5
+1075,March,5,2,57,Fiesole,p,,"clergy, people","c, s",g,Rome,,315,"m, f",w,,,[43.80722222],[11.29194444],map,41.88333333,12.5
+1075,March,5,2,58,Rheims,p,Reims,archbishop,c,i,Rome,,310,m,ins,,,[49.2628],[4.0347],map,41.88333333,12.5
+1075,March,9,2,59,Abbey of Romans,p,Vienne,monk,c,g,Rome,,466,m,"e, ins",,Located as Vienne as Abbey of Romans in footnote said to be there. Note Vienne is the Vienne in the Isère region of France.,[46.5],[0.5],map,41.88333333,12.5
+1075,March,13,2,60,Konstanz,p,,bishop,c,i,Rome,,288,m,w,,,[47.66666667],[9.18333333],map,41.88333333,12.5
+1075,March,23,2,61,Liège,p,,bishop,c,i,Rome,,500,m,w,,,[50.63333333],[5.56666667],map,41.88333333,12.5
+1075,March,23,2,62,Aquileia,p,,patriarch,c,i,Rome,,265,m,ins,,Note Aquileia refers to the ancient city in the province of Udine. Have located as Basillica for mapping purposes.,[45.769725],[13.37119167],map,41.88333333,12.5
+1075,March,23,2,63,Hungary,r,Székesfehérvár,duke,s,i,Rome,,283,m,"e, r",,Worth noting Gesa is a king at this point. ,[47.19555556],[18.40888889],map,41.88333333,12.5
+1075,March,25,2,64,Saint-Denis ,p,Saint-Denis France,abbot,c,i,Rome,,212,m,ins,,,[48.9356],[2.3539],map,41.88333333,12.5
+1075,March,25,2,65,Saint-Denis ,p,Saint-Denis France,monk,c,g,Rome,,326,m,"inf, ins",,,[48.9356],[2.3539],map,41.88333333,12.5
+1075,March,29,2,66,Halberstadt,p,,bishop,c,i,Rome,,606,m,ins,,,[51.89583333],[11.04666667],map,41.88333333,12.5
+1075,March,29,2,67,Cologne,p,Cologne Cathedral,archbishop,c,i,Rome,,710,m,"e, ins",,Note this is the Cologne in Germany. Have located as Cathedral for mapping,[50.94129],[6.95817],map,41.88333333,12.5
+1075,March,29,2,68,Magdeburg,p,,archbishop,c,i,Rome,,393,m,ins,,,[52.13333333],[11.61666667],map,41.88333333,12.5
+1075,April,9,2,69,Turin ,p,,bishop,c,i,Rome,,1066,m,w,,,[45.07916667],[7.67611111],map,41.88333333,12.5
+1075,April,17,2,70,Hungary,r,Székesfehérvár,duke,s,i,Rome,,433,m,r,,Taken to be in Székesfehérvár.,[47.19555556],[18.40888889],map,41.88333333,12.5
+1075,April,17,2,71,Bohemia,r,Prague,duke,s,i,Rome,,375,m,"r, e",,,[50.08333333],[14.41666667],map,41.88333333,12.5
+1075,April,17,2,72,Bohemia,r,Prague,people,"c, s",g,Rome,,453,"m, f",ins,,Writing generally to 'all living in Bohemia'. Have located as Prague for mapping purposes. Marked as pastoral letter. ,[50.08333333],[14.41666667],map,41.88333333,12.5
+1075,April,20,2,73,Poland,r,Gniezno,duke,s,i,Rome,,900,m,"e, inf, r",,Assumed Gniezno,[52.55],[17.6],map,41.88333333,12.5
+1075,April,17,2,74,Poland,r,Gniezno,prince,s,i,Rome,,436,m,e,,Supporting expelled prince here and gifting him back the kingdom on behalf of St Peter. Wife was Polish so he has been located there. ,[52.55],[17.6],map,41.88333333,12.5
+1075,April,17,2,75,Denmark,r,Copenhagen,king,s,i,Rome,,514,m,e,,Mentions when archdeacon loving and being beloved by Sweyn.,[55.67611111],[12.56833333],map,41.88333333,12.5
+1075,April,20,2,76,Bamberg,p,,"clergy, people","c, s",g,Rome,,346,"m, f","e, w",,"Bit confusing classification. E and W because mentions that all in Germany know that Bamburg is joined like a 'special daughter' to the Roman church, but also threatens apostolic censure if instruction is nto carried out. ",[49.9],[10.9],map,41.88333333,12.5
+1075,June,17,2,77,Salzburg ,p,Salzburg Cathedral,archbishop,c,i,Rome,,416,m,w,,Note this is the Salzburg in Austria. Located as the cathedral for mapping purposes.,[47.798056],[13.045833],map,41.88333333,12.5
+1075,July,20,3,1,Bamberg,p,,"clergy, people","c, s",g,Laurentum ,Ostia,494,"m, f","inf, w",,,[49.9],[10.9],map,41.75583333,12.29166667
+1075,July,20,3,2,Mainz,p,,archbishop,c,i,Laurentum,Ostia,351,m,"inf, ins ",,,[50],[8.26666667],map,41.75583333,12.29166667
+1075,July,20,3,3,Holy Roman Empire,r,Aachen,king,s,i,Rome,,610,m,"e, inf, r",,Taken to be in Aachen.,[50.77555556],[6.08361111],map,41.88333333,12.5
+1075,September,3,3,4,Mainz,p,,archbishop,c,i,Rome,,1092,m,ins,,,[50],[8.26666667],map,41.88333333,12.5
+1075,September,11,3,5,Tuscany,r,Canossa Castle,countess,s,si,Rome,,586,f,"inf, e",,Taken to be in Canossa. Quotes from Henry IV envoys at one point.,[44.576],[10.456],map,41.88333333,12.5
+1076,February ,14,3,6*,n/a,n/a,,n/a,n/a,n/a,Rome,,418,n/a,n/a,,Gregory's recorded sentence upon Henry IV at Lent Synod 1076.,,,NO MAP,41.88333333,12.5
+1076,February,n/a,3,6,Latin Christendom,r,n/a,people,"c, s",g,Rome,,360,"m, f","inf, w",,Marked n/a as day as letter merely states 'Late February'.,,,map,41.88333333,12.5
+1075,September,n/a,3,7,Holy Roman Empire,r,Aachen,king,s,i,Rome,,714,m,"e, inf",,Interesting placement. Positive letter to Henry from previous year placed after sentence excommunicating him. No day as simply states September,[50.77555556],[6.08361111],map,41.88333333,12.5
+1075,December,8,3,8,Milan,p,,clerk,c,i,Rome,,817,m,"inf, w",,,[45.46694444],[9.19],map,41.88333333,12.5
+1075,December,8,3,9,Milan,p,,suffragan,c,g,Rome,,593,m,"inf, w",,,[45.46694444],[9.19],map,41.88333333,12.5
+1075,December,8,3,10,Holy Roman Empire,r,Aachen,king,s,i,Rome,,1651,m,w,,A lenghty criticism directly to Henry. This date is a correction made to the original by Cowdrey.,[50.77555556],[6.08361111],map,41.88333333,12.5
+1076,February ,14,3,10a,n/a,n/a,,n/a,n/a,n/a,Rome,,926,n/a,"w, inf",,Record of the Lent Synod of 1076. Undated. Recorded as 14 February as other record.,,,NO MAP,41.88333333,12.5
+1076,March ,14,3,11,Acerenza,p,Acerenza_Cathedral,archbishop,c,i,Rome,,450,m,"ins, e",,,[40.79722222],[15.94166667],map,41.88333333,12.5
+1076,April,n/a,3,12,"Trier, Verdun, Metz",p,,"archbishop, bishop",c,si,Rome,,355,m,ins,,No specific day is provided.from here to the end of book 3.Several recipients in differing locations.,"[49.75, 49.162, 49.12027778]","[6.63333333, 5.3876, 6.17777778]",map,41.88333333,12.5
+1076,April,n/a,3,13,Roselle,p,Grosseto,"clergy, people","c, s",g,Rome,,260,"m, f","inf, ",,,[42.76666667],[11.1],map,41.88333333,12.5
+1076,April,n/a,3,14,Venice,p,,patriarch,c,i,Rome,,313,m,"e, inf",,,[45.4375],[12.33583333],map,41.88333333,12.5
+1076,April,n/a,3,15,Milan,p,,knight,s,i,Rome,,574,m,"e, inf",,Cowdrey notes knight Wilfred is leader of Patarenes after Erlembald. Even discusses Henry IV.,[45.46694444],[9.19],map,41.88333333,12.5
+1076,April,n/a,3,16,Sens,p,,archbishop,c,i,Rome,,383,m,r,,,[48.1975],[3.2877],map,41.88333333,12.5
+1076,April ,n/a,3,17,Orléans,p,,bishop,c,i,Rome,,524,m,w,,,[47.9025],[1.909],map,41.88333333,12.5
+1076,April ,n/a,3,18,Oca-Burgos,p,Burgos,bishop,c,i ,Rome,,478,m,"e, ins",,"A double see (Ie, in two places): had in practice moved to Burgos",[42.35],[-3.70666667],map,41.88333333,12.5
+1076,June,n/a,3,19,Carthage,p,Tunis,archbishop,c,i,Rome,,227,m,r,,,[36.80638889],[10.18166667],map,41.88333333,12.5
+1076,June,n/a,3,20,Bougie,p,Béjaïa ,"clergy, people","c, s",g,Rome,,349,"m, f","inf, ins, e",,Marked as early June.,[36.75],[5.06666667],map,41.88333333,12.5
+1076,September,n/a,3,21,Mauretania Sitifensis,r,Sétif ,emir,s,i,Rome,,488,m,e,,"Marked as later in 1076, so marked as Sptember as is midpoint between June and December. Locate as ok? Modern equivalent of capital of the named Roman province. ",[36.19],[5.41],map,41.88333333,12.5
+1076,July,25,4,1,Roman Empire,r,,"bishop, abbot, priest, duke, prince, knight, people","c, s",g,Laurentum,Ostia,1147,"m, f","ins, r",,Included multiple titles as letter explicitly mentions them as well as to all those who live in Roman Empire. Public criticism of Henry IV essentially urging people to to bring him to 'repentence'.,[nan],[nan],map,41.75583333,12.29166667
+1076,August,15,4,2,Metz,p,,bishop,c,i,Tivoli,Tivoli Rome,1513,m,"inf, ins, e",,Long letter as is responding to questions? States he is extremely busy and may not reply sufficiently.,[49.12027778],[6.17777778],map,41.95972222,12.79805556
+1076,September,3,4,3,Germany,r,Aachen,"bishop, duke, count, people","c, s",g,Laurentum,Ostia,946,"m, f","ins, inf",,Included multiple titles as letter explicitly mentions them as well as to all those who live in German Kingdom. ,[50.77555556],[6.08361111],map,41.75583333,12.29166667
+1076,September,27,4,4,Dol,p,Dol-de-Bretagne,"clergy, people","c, s",g,Rome,,212,"m ,f ","inf, r",,,[48.5506],[-1.7497],map,41.88333333,12.5
+1076,September,27,4,5,Brittany,r,Rennes,bishop,c,g,Rome,,671,m,"inf, r",,Refers to all bishops of Brittany. Have located as Rennes. ,[48.1147],[-1.6794],map,41.88333333,12.5
+1076,October,28,4,6,Liège,p,,bishop,c,i,Rome,,434,m,inf,,,[50.63333333],[5.56666667],map,41.88333333,12.5
+1076,October,31,4,7,Milan,p,,knight,s,si,Rome,,312,m,"e, inf",,Arderic and Wifred are footnoted under Paterene knights by Cowdrey in Pope Gregory VII Italian Chapter p. 284.,[45.46694444],[9.19],map,41.88333333,12.5
+1076,November,1,4,8,Tuscany ,r,"Arezzo, Florence, Pistoia, Lucca, Chieti",bishop,c,si,Rome,,457,m,ins,,Locations mapped are locations of all named bishops.,"[43.47333333, 43.78333333, 43.93333333, 43.84166667, 42.35]","[11.87, 11.25, 10.91666667, 10.50277778, 14.16666667]",map,41.88333333,12.5
+1076,November,2,4,9,Sens,p,,archbishop,c,i,Rome,,458,m,ins,,,[48.1975],[3.2877],map,41.88333333,12.5
+1076,November,10,4,10,Flanders,r,Bruges,countess,s,i,Rome,,211,f,w,,,[51.21666667],[3.23333333],map,41.88333333,12.5
+1076,November,10,4,11,Flanders,r,Bruges,count,s,i,Rome,,450,m,ins,,,[51.21666667],[3.23333333],map,41.88333333,12.5
+1077,January,n/a,4,12,Germany,r,Aachen,"archbishop, bishop, duke, count, prince, people","c, s",g,Canossa,Canossa Castle,702,m,inf,,Only states 'late January'.,[50.77555556],[6.08361111],map,44.576,10.456
+1077,March,1,4,13,Tours,p,,archbishop,c,i,Carpineto ,Carpineti,416,m,"inf, ins",,Canossa Castle,[47.2436],[0.6892],map,44.45,10.51666667
+1077,March,4,4,14,Chartres,p,,"clergy, people","c, s",g,Carpineto ,Carpineti,380,m,"inf, w",,,[48.456],[1.484],map,44.45,10.51666667
+1077,March,4,4,15,Sens,p,,"archbishop, suffragan",c,si,Carpineto ,Carpineti,299,m,"inf, w",,,[48.1975],[3.2877],map,44.45,10.51666667
+1077,March,21,4,16,Abbey of Romans,p,"Vienne,_Isère",clerk,c,g,Carpi,Castrum Carpi,482,m,w,,"Located as Vienne as Abbey of Romans in footnote on previous letter  2.59. Note Vienne is the Vienne in Isere region of France, located at cathedral for mapping. Pope located Castrum Carpi for mapping purposes.","[46.5, 45.33333333]","[0.5, 5.5]",map,44.78333333,10.88333333
+1077,March,21,4,17,England,r,London,king,s,i,Bianello,Quattro Castella,643,m,"inf, e",,This and above recorded as written on same day. Locations approx. 44km apart. ,[51.50722222],[-0.1275],map,44.63333333,10.46666667
+1077,March,23,4,18,Le-Puy-en-Velay,p,,canon,c,g,Bianello,Quattro Castella,259,m,w,,,[45.0442],[3.8858],map,44.63333333,10.46666667
+1077,March,23,4,19,France,r,Paris,"bishop, clergy",c,g,Bianello,Quattro Castella,307,m,"inf, ins",,Refers generally to France. Located as Paris for mapping,[48.856613],[2.352222],map,44.63333333,10.46666667
+1077,March,25,4,20,Paris,p,,bishop,c,i,Bianello,Quattro Castella,1274,m,ins,,,[48.856613],[2.352222],map,44.63333333,10.46666667
+1077,April,6,4,21,Metz,p,,bishop,c,i,Bianello,Quattro Castella,253,m,ins,,,[49.12027778],[6.17777778],map,44.63333333,10.46666667
+1077,May,12,4,22,Die,p,Die Cathedral,bishop,c,i,Ficarolo,,1293,m,"inf, ins",,,[44.75222222],[5.37111111],map,44.95,11.43333333
+1077,May,31,4,23,Germany,r,Aachen,legate,c,si,Carpineto ,Carpineti,615,m,"inf, ins",,Located as Aachen as German legates likely to be near emperor. Refers generally to Germany. Gregory talks about being impeded from crossing moutains by Henry IV coming into Italy and so is stuck in Lombardy with 'enemies of the Christian religion'. Gives legate power to excommunicate Henry or Rudolf of Swabia need be.,[50.77555556],[6.08361111],map,44.45,10.51666667
+1077,May ,31,4,24,Germany,r,Aachen,"archbishop, bishop, duke,  count, clergy, people","c, s",g,Carpineto ,Carpineti,658,"m, f",inf,,Refers generaly to Germany. Included multiple titles as letter explicitly mentions them as well as to all those who live in Germany. Essentially telling situation of above. Marked as Pastoral Letter. Located as Aachen as above,[50.77555556],[6.08361111],map,44.45,10.51666667
+1077,June,9,4,25,Gran,p,Esztergom,archbishop,c,i,Carpineto ,Carpineti,609,m,"inf, r",,Located as Esztergom for mapping purposes. ,[47.78555556],[18.74027778],map,44.45,10.51666667
+1077,June,9,4,26,"Grado, Venice",p,"Grado Italy, Venice","patriarch, suffragan",c,g,Carpineto ,Carpineti,368,m,"e, r",,Have put two locations as refers to Patriarch in Grado and suffragans / 'other bishops of Venice'.,"[45.677778, 45.4375]","[13.394722, 12.33583333]",map,44.45,10.51666667
+1077,June,9,4,27,Venice,p,,"doge, people","c, s","i, g",Carpineto ,Carpineti,499,m,"w, ins",,Have classified with w due to expressing sorrow and saying how Venice had slipped outside the society of Christ and the Church. ,[45.4375],[12.33583333],map,44.45,10.51666667
+1077,June,28,4,28,Spain ,r,"Zaragoza, Leon Spain, Navarre","king, count, prince, noble","c, s",g,Carpineto ,Carpineti,1679,m,"e, inf",,Have put all titles mentioned. Marked as pastoral letter. Located in three locations Gregory has previously written to. ,"[41.65, 42.60555556, 42.81666667]","[-0.88333333, -5.57, -1.65]",map,44.45,10.51666667
+1077,August,11,5,1,Lucca,p,,canon,c,g,Florence,,271,m,w,,,[43.84166667],[10.50277778],map,43.78333333,11.25
+1077,September,1,5,2,Pisa,p,,"bishop, clergy, consul, people","c,s",g,Siena,,344,"m, f","inf, ins",,"Have put all titles mentioned, but changed greater and lesser men to people.",[43.71666667],[10.4],map,43.31861111,11.33055556
+1077,September,16,5,3,"Siena, Florence",p,,bishop,c,si,Rome,,207,m,ins,,Two locations as sent to two bishops in different places. ,"[43.31861111, 43.78333333]","[11.33055556, 11.25]",map,41.88333333,12.5
+1077,September,16,5,4,Corsica,r,Ajaccio,"bishop, noble, people","c, s",g,Rome,,454,"m, f","e, ins",,Refers generally to Corsica. Have located as Ajjacio.,[41.9267],[8.7369],map,41.88333333,12.5
+1077,September,17,5,5,Aquileia,p,,"clergy, people","c, s",g,Rome,,609,"m, f","inf, ins",,,[45.769725],[13.37119167],map,41.88333333,12.5
+1077,September,17,5,6,Aquileia,p,,suffragan,c,g,Rome,,504,m,w,,"Interesting that in greeting he greets with apostolic blessing those 'true brothers' of Aquileia, and purposely notes this is not extended to those 'departed by schismatic wickedness'.",[45.769725],[13.37119167],map,41.88333333,12.5
+1077,September,30,5,7,Germany,r,"Trier, Verdun, Toul, Metz","archbishop, bishop, suffragan",c,g,Rome,,644,m,inf,,Have put as Germany r Trier as is adressed to Udo of Trier and also his fellow suffragans and bishops.,"[49.75, 49.162, 48.675, 49.12027778]","[6.63333333, 5.3876, 5.8917, 6.17777778]",map,41.88333333,12.5
+1077,October,6,5,8,"Sens, Bourges",p,,"archbishop, suffragan",c,g,Rome,,496,m,ins,,,"[48.1975, 47.0844]","[3.2877, 2.3964]",map,41.88333333,12.5
+1077,October,6,5,9,Orléans,p,,bishop,c,i,Rome,,447,m,w,,Gregory writes 'so-called bishiop of Orleans'.,[47.9025],[1.909],map,41.88333333,12.5
+1077,November,6,5,10,Denmark,r,Copenhagen,king,s,i,Rome,,994,m,"e, r",,King taken to be in Copenhagen. Marked as pastoral letter. ,[55.67611111],[12.56833333],map,41.88333333,12.5
+1077,n/a,n/a,5,11,Die,p,Die Cathedral,legate,c,i,Rome,,496,m,inf. ins,,Simply says 'late 1077'. Letter does not have 'given at...on...in the...indiction'. Legate is Hugh of Die so located in Die. ,[44.75222222],[5.37111111],map,41.88333333,12.5
+1078,January,9,5,12,Zeta,r,Ston,king,s,i,Rome,,188,m,r,,,[42.83333333],[17.7],map,41.88333333,12.5
+1078,January,28,5,13,Ravenna,p,Ravenna Cathedral,"archbishop, suffragan, bishop, abbott",c,g,Rome,,376,m,"e, r",,Essentially offering the olive branch.,[44.4156],[12.1966],map,41.88333333,12.5
+1078,January,29,5,14,Orléans,p,,"clergy, people","c, s",g,Rome,,478,"m, f","inf, w",,,[47.9025],[1.909],map,41.88333333,12.5
+1078,March,3,5,14a,n/a,n/a,,n/a,n/a,n/a,Rome,,1428,n/a,n/a,,Written record of Lent Synod 1078. Unlike other record this is dated. ,,,NO MAP,41.88333333,12.5
+1078,March,9,5,15,Germany,r,Aachen,"archbishop, bishop, clergy, duke, prince, margrave, people","c, s",g,Rome,,567,"m, f","inf, w",,Writes generally to Germany. Recorded like others as Aachen.,[50.77555556],[6.08361111],map,41.88333333,12.5
+1078,March,9,5,16,Trier,p,,archbishop,c,i,Rome,,697,m,"e, ins",,,[49.75],[6.63333333],map,41.88333333,12.5
+1078,March ,9,5,17,n/a,n/a,,n/a,n/a,n/a,Rome,,655,n/a,n/a,,Is a recorded memorandum of Gregory's changes to sentences passed by bishop Hugh against French bishops.,,,NO MAP,41.88333333,12.5
+1078,March,19,5,18,Speyer,p,,bishop,c,i,Rome,,308,m,w,,,[49.31944444],[8.43111111],map,41.88333333,12.5
+1078,April,4,5,19,England,r,London,king,s,i,Rome,,326,m,"inf, e",,King taken to be in London. ,[51.50722222],[-0.1275],map,41.88333333,12.5
+1078,April,24,5,20,Orléans,p,,bishop,c,i,Rome,,348,m,w,,,[47.9025],[1.909],map,41.88333333,12.5
+1078,May,7,5,21,Cluny,p,,abbot,c,i,Rome,,500,m,"e, inf",,"Very personal letter, reflects on self.",[46.43416667],[4.65916667],map,41.88333333,12.5
+1078,May ,22,5,22,Dol,p,Dol-de-Bretagne,legate,c,si,The Lateran,Lateran Palace,386,m,ins,,"Located as Dol. Not explicitly said, but in letter 4.17 it mentions the legate Teuzo who is one of two written to here as being involved in affairs regarding the Church of Dol. This letter also concerns the Archbishop of Dol. ",[48.5506],[-1.7497],map,41.88661111,12.50575
+1078,May ,22,5,23,Brittany,r,Rennes,count,s,si,The Lateran,Lateran Palace,417,m,"inf, r",,Refers to counts of Brittany Rennes used for mapping as is named.See above regarding Lateran Palace. Marked as pastoral letter.  ,[48.1147],[-1.6794],map,41.88661111,12.50575
+1078,July,1,6,1,Germany,r,Aachen,"clergy, people",c,g,Capua,Sant%27Angelo_in_Formis,560,"m, f","inf, ins, e",,"Adressed to all in Germany, clergy and laity. Located as Aachen as have done previously for mapping. ",[50.77555556],[6.08361111],map,41.885,12.49666667
+1078,August,22,6,2,Rheims,p,Reims,archbishop,c,i,S Germano,Cassino,1112,m,"e, inf, ins",,San Germano in Cassino.,[49.2628],[4.0347],map,41.5,13.83333333
+1078,August,22,6,3,"Die, Cluny",p,"Die Cathedral, Cluny",legate,c,si,S Germano,Cassino,512,m,"ins, e",,As above. Die Cathedral for mapping purposes. ,"[44.75222222, 46.43416667]","[5.37111111, 4.65916667]",map,41.5,13.83333333
+1078,October,9,6,4,Liège,p,,bishop,c,i,Acquapendente,,577,m,w,,,[50.63333333],[5.56666667],map,42.74388889,11.86444444
+1078,October,22,6,5,Metz,p,,bishop,c,i,Sutri,,408,m,ins,,Gregory has travelled around 70km here. ,[49.12027778],[6.17777778],map,42.23333333,12.28333333
+1078,November,19,6,5b,n/a,n/a,,n/a,n/a,n/a,Rome,,1591,n/a,n/a,,Written record of the Autumn synod of 1078. Date is provided. ,,,NO MAP,41.88333333,12.5
+1078,November,24,6,6,n/a,n/a,,n/a,n/a,n/a,Rome,,357,n/a,n/a,,Written record of settlement of dispute between Archbishop of Turin and Abbot Benedict II of S. Michele della Chiusa. Date is provided. ,,,NO MAP,41.88333333,12.5
+1078,November,25,6,7,Die,p,Die Cathedral,bishop,c,i,Rome,,277,m,ins,,Located as cathedral for mapping. ,[44.75222222],[5.37111111],map,41.88333333,12.5
+1078,November,25,6,8,"Thérouanne, Saint-Pol",p,"Thérouanne, Saint-Pol-sur-Ternoise","archdeacon, clerk, count","c, s",g,Rome,,472,m,w,,,"[50.6375, 50.3797]","[2.2597, 2.335]",map,41.88333333,12.5
+1078,November,25,6,9,Thérouanne,p,,"archdeacon, canon",c,g,Rome,,341,m,ins,,,[50.6375],[2.2597],map,41.88333333,12.5
+1078,November,26,6,10,Ravenna,p,Ravenna Cathedral ,people,"s, c",g,Rome,,353,"m, f","inf, w, e",,"Located as Ravenna Cathedral for mapping purposes, as if talking to place not the region. Have assinged e and w due to talkign well of Ravenna church and promissing remisiion of all sins for supporters, but threatening anathema those who do not listen.",[44.4156],[12.1966],map,41.88333333,12.5
+1078,November,28,6,11,San Martino ,p,Lucca Cathedral,clerk,c,g,Rome,,350,m,w,,Located as Lucca Cathedral for mapping purposes.,[43.84069444],[10.50583333],map,41.88333333,12.5
+1078,November,30,6,12,Pisa,p,,bishop,c,i,Rome,,674,m,"e, ins",,"Gives bishop Landulf and his sucessors 'the power to act on our behaf in the island of Corsica', if elected canonically. ",[43.71666667],[10.4],map,41.88333333,12.5
+1078,December,15,6,13,Norway,r,Trondheim ,king,s,i,Rome,,1106,m,"e, r",,King taken to be in Trondheim. Marked as pastoral letter. ,[63.42972222],[10.39333333],map,41.88333333,12.5
+1078,December,30,6,14,Bavaria,r,Regensburg,duke,s,i,Rome,,340,m,inf,,"Taken to be in Regensburg. Cowdrey notes use of plural indicates potentially sent to wider group, but not explicit so treated as individual.",[49.01666667],[12.08333333],map,41.88333333,12.5
+1079,January,2,6,15,Saint-Victor at Marseilles,p,Marseilles,monk,c,g,Rome,,588,m,"e, inf",,Located as Marsailles for mapping purposes. Says he 'condoles with the monks'.,[43.2964],[5.37],map,41.88333333,12.5
+1079,January,2,6,16,Girona ,p,,bishop,c,i,Rome,,762,m,"e, ins",,,[41.98444444],[2.82111111],map,41.88333333,12.5
+1079,January,2,6,17,Cluny,p,,abbot,c,i,Rome,,605,m,r,,Upset with Abbot. But previous relations clearly influence tone here meaning not really a warning- Gregory seems more hurt / offended?,[46.43416667],[4.65916667],map,41.88333333,12.5
+1079,February ,n/a,6,17a,n/a,n/a,,n/a,n/a,n/a,Rome,,1285,n/a,n/a,,Written record of Lent Synod of 1079. Day not provided. ,,,NO MAP,41.88333333,12.5
+1079,February ,14,6,18,Parma,p,,bishop,c,i,Rome,,198,m,w,,,[44.80147222],[10.328],map,41.88333333,12.5
+1079,February,17,6,19,Bamberg,p,,vassal,s,si,Rome,,195,m,w,,Refers to several vassals for the first and only time. ,[49.9],[10.9],map,41.88333333,12.5
+1079,February,25,6,20,Béarn,r,,count,s,i,Rome,,282,m,"e, ins",,Refers generally to Béarn. Located as Pau for mapping. ,[43.3],[-0.3667],map,41.88333333,12.5
+1079,March,1,6,21,Arles,p,,"clergy, people","c, s",g,Rome,,476,"m, f","inf, ins",,,[43.6767],[4.6278],map,41.88333333,12.5
+1079,March,3,6,22,Tuscany,r,Canossa Castle,countess,s,i,Rome,,251,f,"inf, e",,Taken to be in Canossa. ,[44.576],[10.456],map,41.88333333,12.5
+1079,March,5,6,23,Orléans,p,,"clergy, people","c, s",g,Rome,,337,m,"inf, w",,,[47.9025],[1.909],map,41.88333333,12.5
+1079,March,8,6,24,Oloron ,p,,bishop,c ,i,Rome,,247,m,ins,,,[43.1947],[-0.6056],map,41.88333333,12.5
+1079,March,8,6,25,Saint-Sever,p,Saint-Sever Abbey,abbot,c,i,Rome,,302,m,w,,Located as Saint-Sever Abbey for mapping.,[43.7597],[-0.5742],map,41.88333333,12.5
+1079,March,14,6,26,Lille,p,,"provost, canon",c,g,Rome,,253,m,w,,Only time provost is used. ,[50.6278],[3.0583],map,41.88333333,12.5
+1079,March ,20,6,27,Déols ,p,Déols France,monk,c,g,Rome,,226,m,w,,,[46.8308],[1.7067],map,41.88333333,12.5
+1079,March,20,6,28,Bourges,r,,prince,s,g,Rome,,364,m,w,,"Refers generally to Bourges princes but also names specific ones. Have put down locations named lords preside over according to Cowdrey footnotes. If control two places have used the first. Charenton, Argenton, Linière have had named changed for mapping purposes. Title says lay magnates but have used princes as this is the role stated in the body of the text. ",[47.0844],[2.3964],map,41.88333333,12.5
+1079,March,25,6,29,Hungary,p,Székesfehérvár,king,s,i,Rome,,635,m,"e, inf, r",,King taken to be in Székesfehérvár. ,[47.19555556],[18.40888889],map,41.88333333,12.5
+1079,March,25,6,30,Canterbury ,p,,archbishop,c,i,Rome,,403,m,w,,,[51.28],[1.08],map,41.88333333,12.5
+1079,March,31,6,31,Provence,r,Marseille ,"archbishop, bishop, prince, clerk, people",c,g,Rome,,332,"m, f",w,,Stresses that Montmajour monastery belongs closely to Roman church..,[43.2964],[5.37],map,41.88333333,12.5
+1079,April,13,6,32,Poitiers,p,,bishop,c,i,Rome,,231,m,ins,,,[46.58],[0.34],map,41.88333333,12.5
+1079,April ,14,6,33,Cluny ,p,,abbot,c,i,Rome,,252,m,r,,,[46.43416667],[4.65916667],map,41.88333333,12.5
+1079,April,20,6,34,Lyons,p,Lyon,archbishop,c,i,Rome,,536,m,e,,Grants a privilege to church of Lyons. Located as Lyon for mapping. ,[45.76],[4.84],map,41.88333333,12.5
+1079,April,20,6,35,"Rouen, Tours, Sens",p,,archbishop,c,si,Rome,,837,m,"inf, ins",,Writes to three archbishops. Have put locations of all. ,"[49.44277778, 47.2436, 48.1975]","[1.08861111, 0.6892, 3.2877]",map,41.88333333,12.5
+1079,April,20,6,36,Lyons,p,Lyon,canon,c,g,Rome,,406,m,w,,,[45.76],[4.84],map,41.88333333,12.5
+1079,April,21,6,37,Capua,p,Sant%27Angelo_in_Formis,prince,s,i,Rome,,310,m,w,,,[41.885],[12.49666667],map,41.88333333,12.5
+1079,June,16,6,38,Aquileia,p,Aquileia basilica,archbishop,c,i,Rome,,247,m,e,,Located to the basilica for mapping.,[45.769725],[13.37119167],map,41.88333333,12.5
+1079,June,21,6,39,Como,p,,bishop,c,i,Rome,,506,m,ins,,,[45.81666667],[9.08333333],map,41.88333333,12.5
+1079,June ,28,6,40,La Marche,p,La_Marche Nièvre,count,s,i,Lateran,Lateran Palace,282,m,w,,"La Marche would have been a region, but due to little information on it, it has been located to a small commune of the same name in the same place. Pope located to palace for mapping. ",[47.1414],[3.0347],map,41.88661111,12.50575
+1079,September,23,7,1,Flanders,p,Bruges,legate,c,i,Rome,,589,m,"w, ins",,Located in Flanders as mentions has failed to carry out instruction there. Close to Anglo-Norman lands. Specifically located as Bruges for mapping. W and ins only because warning is seemingly seperate.,[51.21666667],[3.23333333],map,41.88333333,12.5
+1079,October,1,7,2,Lucca,p,,"clergy, people","c, s",g,Rome,,635,"m, f","inf, w",,,[43.84166667],[10.50277778],map,41.88333333,12.5
+1079,October,1,7,3,Germany,r,,people,"c, s",g,Rome,,379,"m, f","inf, e",,"Refers generally to Germany, writing to 'all faithful of St Peter'. Have located as Aachen for mapping as have done previously. Seemingly trying to reassure doubters. Apologises at one point for work of some legates if they have gone against instructions. This tone means have put an e. ",[51],[9],map,41.88333333,12.5
+1079,October,7,7,4,Istria,r,Pula,knight,s,i,Rome,,236,m,w,,"Florin Curta in Eastern Europe in the Middle Ages (500-1300) p. 335 identifies the knight Wezelin as being of either Istria or Carniola. Have located in the biggest city in Istria County, Pula. ",[44.86666667],[13.85],map,41.88333333,12.5
+1079,October,15,7,5,Denmark,r,Copenhagen,king,s,i,Rome,,325,m,"e, r",,King taken to be in Copenhagen. Marked as pastoral letter. ,[55.67611111],[12.56833333],map,41.88333333,12.5
+1079,October,15,7,6,León-Castille,p,León Spain,king,s,i,Rome,,923,m,"e, inf, r",,King located in León for mapping. Noted that this letter was sent along with a relic of St Peter's chains. Notes that further matters will be discussed in verbal report. ,[42.60555556],[-5.57],map,41.88333333,12.5
+1079,November,2,7,7,Saint-Victor,p,Marseilles,priest,c,i,Rome,,307,m,"inf, ins",,Saint-Victor is in Marseilles.,[43.2964],[5.37],map,41.88333333,12.5
+1079,November,2,7,8,Saint-Victor,p,Marseilles,monk,c,g,Rome,,481,m,inf,,As above. Marked as pastoral letter. ,[43.2964],[5.37],map,41.88333333,12.5
+1079,November ,3,7,9,"Asti, Turin, Acqui",p,"Asti, Turin, Acqui Terme",bishop,c,si,Rome,,249,m,r,,Have put named locations of bishops. Acqui Terme used for mapping.,"[44.9, 45.07916667, 44.68333333]","[8.20694444, 7.67611111, 8.46666667]",map,41.88333333,12.5
+1079,November,25,7,10,Brittany,r,Rennes,"clergy, people",c,g,Rome,,510,"m, f","ins, e",,Refers to Brittany generally. As before Rennes used for mapping.,[48.1147],[-1.6794],map,41.88333333,12.5
+1080,January,2,7,11,Bohemia,r,Prague,duke,s,i,Rome,,959,m,"w, inf",,"Duke taken to be in Prague. Duke apparently asked Gregory if divine services could be spoken in native tongue, which he rejects. ",[50.08333333],[14.41666667],map,41.88333333,12.5
+1080,January,3,7,12,Rheims,p,Reims,archbishop,c,i,Rome,,666,m,w,,Located as Reims for mapping. ,[49.2628],[4.0347],map,41.88333333,12.5
+1080,January,30,7,13,Verdun,p,,bishop,c,i,Rome,,489,m,ins,,,[49.162],[5.3876],map,41.88333333,12.5
+1080,January,30,7,14,Liège,p,,bishop,c,i,Rome,,295,m,"e, r",,,[50.63333333],[5.56666667],map,41.88333333,12.5
+1080,March,7,7,14a,n/a,n/a,,n/a,n/a,n/a,Rome,,2496,n/a,n/a,,Written record of Lent synod of 1080. Full dated. ,,,NO MAP,41.88333333,12.5
+1080,March,8,7,15,"Brittany, Tours",r,"Rennes, Tours","bishops, clergy, people","c, s",g,Rome,,403,"m, f",inf,,Refers generally to bishops of Brittany and clergy and people living in province of Tours. Located as Rennes and Tours.,"[48.1147, 47.2436]","[-1.6794, 0.6892]",map,41.88333333,12.5
+1080,March,26,7,16,Thérouanne,p,,bishop,c,i,Rome,,509,m,w,,Very interesting about register- claims reason why not sending blessing 'is above all what is to be read in our Register'.,[50.6375],[2.2597],map,41.88333333,12.5
+1080,March,24,7,17,Bourg-Dieu,p,Déols France,monk,c,g,Rome,,280,m,"inf, ins",,,[46.8308],[1.7067],map,41.88333333,12.5
+1080,April ,12,7,18,Auch,p,,archbishop,c,i,Rome,,332,m,w,,,[43.6465],[0.5855],map,41.88333333,12.5
+1080,April,12,7,19,"Bourges, Narbonne, Bordeaux ",p,,people,"c, s",g,Rome,,515,"m, f",w,,Refers generally to all people living in these 'provinces' listed.,"[47.0844, 43.1836, 44.84]","[2.3964, 3.0042, -0.58]",map,41.88333333,12.5
+1080,April,12,7,20,Rheims,p,Reims,archbishop,c,i ,Rome,,404,m,w,,,[49.2628],[4.0347],map,41.88333333,12.5
+1080,April,19,7,21,Denmark,r,Copenhagen,king,s,i,Rome,,766,m,"e, ins",,King taken to be in Copenhagen. Marked as pastoral latter. ,[55.67611111],[12.56833333],map,41.88333333,12.5
+1080,April,24,7,22,Le Mans,p,,bishop,c,i,Rome,,101,m,inf,,,[48.0077],[0.1984],map,41.88333333,12.5
+1080,April ,24,7,23,England,r,London ,king,s,i,Rome,,1035,m,"e, r, inf",,King taken to be in London. Marked as pastoral letter. Essentially claims he has shown great faith in William against view of others at beggining,[51.50722222],[-0.1275],map,41.88333333,12.5
+1080,May,8,7,24,Hirsau,p,,abbot,c,i,The Lateran,Lateran Palace,772,m,"inf, e, ins",,Located as palace for mapping.,[48.73777778],[8.73222222],map,41.88661111,12.50575
+1080,May ,8,7,25,England,r,London,king,s,i,Rome,,412,m,inf,,King taken to be in London. Marked as pastoral letter. Interesting how soon this is after the previous pastoral letter to William (14 days).,[51.50722222],[-0.1275],map,41.88333333,12.5
+1080,May,8,7,26,England,r,,Queen,s,i,Rome,,246,f,"e, inf",,Queen taken to be in London. Notes that matters ommited in letter which will be relayed by messenger. ,[51.5],[-0.11666667],map,41.88333333,12.5
+1080,May,8,7,27,England,r,London,prince,s,i,Rome,,368,m,"r,e",,Son of King taken to be in London. Only referred to as son of king but prince used for data.,[51.50722222],[-0.1275],map,41.88333333,12.5
+1080,n/a ,n/a,7,28,Benevento,p,,archbishop,c,i,n/a,,498,m,ins,,No precise date jusy 1080. No indication where pope is writing from.,[41.13333333],[14.78333333],map,41.88333333,12.5
+1080,June,6,8,1,Tsmandos,p,Erzurum,archbishop,c,i,n/a,,1701,m,r,,"Tsamandos is hard to locate, but seems to be Aziziye , near Ezurum",[39.90861111],[41.27694444],map,41.88333333,12.5
+1080,June,27,8,2,Cluny,p,,abbot,c,i,Ceprano,Ceprano Italy,650,m,w,,,[46.43416667],[4.65916667],map,43,12
+1080,June,27,8,3,León-Castille,p,León Spain,king,s,i,Ceprano,Ceprano Italy,586,m,w,,"León Spain, Navarre",[42.60555556],[-5.57],map,43,12
+1080,June,27,8,4,Marseilles,p,,legate,c,i,Ceprano,Ceprano Italy,273,m,inf,, Have put his title location (Richard of Marseilles) as no other indication of location.,[43.2964],[5.37],map,43,12
+1080,July,21,8,5,South Italy,r,"Bari, Catanzaro, Salerno",bishop,c,g,Ceccano,,801,m,inf,,"Located as three largest cities in the regions mentioned, although refers to Southern Italy as a whole. Notes things are not included that will be conveyed by legates. ","[41.12527778, 38.9, 40.68333333]","[16.86666667, 16.6, 14.76666667]",map,41.566667,13.333333
+1080,July,25,8,6,"Apulia, Calabria",p,"Bari, Catanzaro, Salerno",bishop,c,si,n/a,,313,m,ins,,,"[41.12527778, 38.9, 40.68333333]","[16.86666667, 16.6, 14.76666667]",map,41.566667,13.333333
+1080,n/a,n/a,8,7,n/a,n/s,,people,"c, s",g,n/a,,359,m,r,,To 'the faithful of St Peter'. No day or month provided. ,,,NO MAP,41.566667,13.333333
+1080,September,18,8,8,Salerno,p,,archbishop,c,i,Rome,,426,m,e,,Discovery of body of St Matthew?,[40.68333333],[14.76666667],map,41.88333333,12.5
+1080,September,22,8,9,Germany,r,Aachen,"archbishop, bishop, clerk, people","c, s",g,Rome,,453,m,"inf, r",,"Refers generally to the faithful in Germany, have listed all named titles. Located as Aachen. Marked as pastoral letter. ",[50.77555556],[6.08361111],map,41.88333333,12.5
+1080,October,1,8,10,Cagliari ,p,,judge,s,i,Rome,,552,m,"e, ins, inf",,,[39.22777778],[9.11111111],map,41.88333333,12.5
+1080,October,4,8,11,Sweden,r,Stockholm,king,s,i,Rome,,272,m,r,,"King taken to be in Stockholm, although it should be noted the royal palace here was not built until the 13th century. ",[59.32944444],[18.06861111],map,41.88333333,12.5
+1080,October,15,8,12,"Tuscany, Fermo, Exarchate of Ravenna",r,"Canossa Castle, Fermo, Ravenna Cathedral","bishop, abbot, clerk, people","c, s",g,Rome,,591,"m, f","inf, ins, e",,Have listed all titles. Have located exarchate of Ravenna as Ravenna. ,"[44.576, 43.16083333, 44.4156]","[10.456, 13.71583333, 12.1966]",map,41.88333333,12.5
+1080,October,15,8,13,Ravenna,p,Ravenna Cathedral,"clergy, people","c, s",g,Rome,,622,"m, f","inf, ins, e",,Located at the cathedral for mapping purposes. ,[44.4156],[12.1966],map,41.88333333,12.5
+1080,December,11,8,14,"Ravenna, The Pentapolis, Fermo, Spoleto","p, r","Ravenna, Rimini, Fermo, Spoleto","bishop, abbot, count, knight","c, s",g,Rome,,497,m,"inf, ins",,Perhaps aimed at the higher echelons-the titles put are the only recipients listed. The Pentapolis has been located as Rimini for mapping purposes. ,"[44.41666667, 44.05944444, 43.16083333, 42.7564791]","[12.2, 12.56833333, 13.71583333, 12.68547]",map,41.88333333,12.5
+1080,December,12,8,15,Valva,p,Museo_civico_archeologico_Antonio_De_Nino,people,"c, s",g,Rome,,298,"m, f","inf, ins",,Located as Corfino as is the modern day equivalent. ,[42.1245],[13.8441],map,41.88333333,12.5
+1080,December,23,8,16,Saint-Gilles,p,saint-gilles-du-gard,count,s,si,Rome,,372,m,"e, ins",,Name altered in locate as to assist with mapping. ,[43.6786],[4.4317],map,41.88333333,12.5
+1080,December,27,8,17,Rheims,p,Reims,"clergy, people","c, s",g,Rome,,425,"m, f","inf, w",,Locate as to assist with mapping. ,[49.2628],[4.0347],map,41.88333333,12.5
+1080,December,27,8,18,Roucy,p,,count,s,i,Rome,,421,m,"ins, inf",,,[49.3728],[3.8158],map,41.88333333,12.5
+1080,December,27,8,19,Rheims,r,Reims,suffragan,c,g,Rome,,480,m,"ins, inf",,Have put r as written to 'all bishops in province of Rheims'. Have changed to Reims in locate as for mapping. Have not listed each individual bishop.,[49.2628],[4.0347],map,41.88333333,12.5
+1080,December,27,8,20,France,r,Paris,king,s,i,Rome,,565,m,"e, ins",,,[48.856613],[2.352222],map,41.88333333,12.5
+1081,February,n/a,8,20a,n/a,n/a,,n/a,n/a,n/a,Rome,,142,n/a,na,,Titled brief notice of Lent Synod of 1081. ,,,NO MAP,41.88333333,12.5
+1081,March,15,8,21,Metz,p,,bishop,c,i,Rome,,4746,m,"inf, ins",,Long as is responding to request of Bishop of Metz for 'a full and authoritative defence of his comdemnation of King Henry IV of Germany. Matter of authority. Gregory notes some do not believe he hed the power to excommunicate Henry. ,[49.12027778],[6.17777778],map,41.88333333,12.5
+1081,n/a,n/a,8,22,Hungary,r,Székesfehérvár,queen,s,i,Rome,,483,f,ins,,Queen taken to be in Székesfehérvár. Noted as 'letter of personal counsel'. No day or month provided. ,[47.19555556],[18.40888889],map,41.88333333,12.5
+1084,n/a,n/a,8,23,Gaul,r,Paris,legate,c,si,Salerno,,214,m,ins,,Taken to be in Paris as this is where previous Gaul legation in book one were located. Jumps all the way to 1084 here. Concerns collection of papal revenues. No day or month provided. ,[48.856613],[2.352222],map,40.68333333,14.76666667
+1081,n/a,n/a,9,1,Rouen,p,,archbishop,c,i,n/a,,377,m,w,,N/A common from here on. Means not provided as previously. ,[49.44277778],[1.08861111],map,40.68333333,14.76666667
+1081,n/a,n/a,9,2,Leon,p,León Spain,king,s,i,n/a,,1393,m,inf,,,[42.60555556],[-5.57],map,40.68333333,14.76666667
+1081,March,n/a,9,3,"Passau, Hirsau",p,,"bishop, abbot",c,si,n/a,,1318,m,"ins, e, inf",,,"[48.56666667, 48.73333333]","[13.46666667, 8.73333333]",map,40.68333333,14.76666667
+1081,February,n/a,9,4,Montecassino,p,Monte_Cassino,abbot,c,i ,n/a,,467,m,ins,,,[41.49],[13.81388889],map,40.68333333,14.76666667
+1081,n/a,n/a,9,5,France,r,Saintes France,legate,c,si,n/a,,569,m,ins,,Legates mentioned as having held council at Saintes,[45.7464],[-0.6333],map,40.68333333,14.76666667
+1081,April,18,9,6,Marseilles,p,,abbot,c,i,Rome,,745,m,ins,,,[43.2964],[5.37],map,41.88333333,12.5
+1081,n/a,n/a,9,7,Maskarans,p,Poitiers,abbot,c,i,n/a,,265,m,e,,Maskarans no longer exists; have mapped as Poitiers.,[46.58],[0.34],map,41.88333333,12.5
+1081,April,8,9,8,Venice,p,,"doge, people","c, s",g,n/a,,324,"m, f",w,,,[45.4375],[12.33583333],map,41.88333333,12.5
+1081,April,28,9,9,Blois,p,,count,s,i,The Lateran,Lateran Palace,481,m,"e, ins",,Pope locate as to assist mapping.,[47.5939],[1.3281],map,41.88661111,12.50575
+1081,n/a,n/a,9,10,Passau,p,,bishop,c,i,n/a,,203,m,ins,,Seems to start lacking proper sign offs from here on?,[48.56666667],[13.46666667],map,41.88661111,12.50575
+1081,May,n/a,9,11,Montecassino,p,Monte_Cassino,abbot,c,i,n/a,,440,m,"inf, ins. ",,,[41.49],[13.81388889],map,41.88661111,12.50575
+1080,December,12,9,12,Valva,p,Museo_civico_archeologico_Antonio_De_Nino,people,"c, s",g,n/a,,298,"m, f ","inf, ins",,Noted as duplicate of Reg. 8.15. Jumps back a year for a letter?,[42.1245],[13.8441],map,41.88661111,12.50575
+1083,n/a,n/a,9,13,Flanders,p,,count,s,i,n/a,,205,m,ins,,Jumps forward again.,[51],[4.5],map,41.88661111,12.50575
+1081,n/a,n/a,9,14,Sweden,r,Stockholm,king,s,i,n/a,,553,m,ins,,King taken to be in Stockholm. Marked as pastoral letter. ,[59.32944444],[18.06861111],map,41.88661111,12.50575
+1081,December,4,9,15,Die,p,Die Cathedral,bishop,c,i,The Lateran,Lateran Palace,467,m,"inf, ins",,Pope locate as to assist mapping. Located at cathedral for mapping also. ,[44.75222222],[5.37111111],map,41.88661111,12.50575
+1081,n/a,n/a,9,16,Chartres ,p,,"clergy, people","c, s",g,n/a,,376,"m, f","ins, inf",,Only says late 1081. ,[48.456],[1.484],map,41.88661111,12.50575
+1081,n/a,n/a,9,17,Apulia,r,Bari,duke,s,i,n/a,,351,m,"e, ins",,States after 18 October 1081. Duke taken to be in Bari. ,[41.12527778],[16.86666667],map,41.88661111,12.50575
+1081/2,October,24,9,18,Die,p,Die Cathedral,bishop,c,i,n/a,,151,m,ins,,"Are some dates from this point on that could be one of two, written as 1081/82 as seen. ",[44.75222222],[5.37111111],map,41.88661111,12.50575
+1082/3,n/a,n/a,9,19,Lyons,p,Lyon,archbishop,c,i,n/a,,405,m,ins,,,[45.76],[4.84],map,41.88661111,12.50575
+1082,May/ June,n/a,9,20,Canterbury ,p,,archbishop,c,i,n/a,,276,m,w,,,[51.28],[1.08],map,41.88661111,12.50575
+1082,n/a,n/a,9,21,Latin Christendom,r,n/a,"bishop, abbot, clergy, people","c, s",g,n/a,,642,"m, f","e, ins",,Adressed gernerally to all 'who are faithful to the apostolic see' hence n/a for locate as. Have put all titles mentioned. Marked as pastoral letter. ,,,map,41.88661111,12.50575
+1080,December,23,9,22,Saint-Gilles,p,saint-gilles-du-gard,count,s,si,Rome,,372,m,"e, inf",,Noted as duplicated of Reg. 8.16,[43.6786],[4.4317],map,41.88333333,12.5
+1081,n/a,n/a,9,23,n/a,p,,count,s,i,n/a,,718,m,w,,,,,NO MAP,41.88333333,12.5
+1082/3,n/a,n/a,9,24,"Tours, Angers",p,,"abbot, clerk, people, clergy","c, s",g,n/a,,302,"m, f ",w,,Refers generally to clergy and people of Tours and Angers. Have put all titles listed. ,"[47.2436, 47.473612]","[0.6892, -0.554167]",map,41.88333333,12.5
+1081,January,n/a,9,25,Sicily,r,Palermo,count,s,i,n/a,,399,m,"e, inf, ins",,Count taken to be in Palermo. Date provided is 'Before 4 February 1081'.so have put January.,[38.11666667],[13.36666667],map,41.88333333,12.5
+1082,n/a,n/a,9,26,Capua,p,Sant%27Angelo_in_Formis,count,c,i,n/a,,274,m,"e, ins",,,[41.885],[12.49666667],map,41.88333333,12.5
+1082,n/a,n/a,9,27,Naples,p,,archbishop,c,i,n/a,,348,m,"inf, ins",,"Only date provided is 'After 24 June 1082', hence have put n/a. ",[40.845],[14.25833333],map,41.88333333,12.5
+1082/3,n/a,n/a,9,28,Santi Quattro Coronati,p,,priest,c,i,n/a,,325,m,"e, ins",,Located at Santi Quattro Coronati as footnotes say this is where the Hermann was priest in 'Gregory's last years'.,[41.88833333],[12.49833333],map,41.88333333,12.5
+1083,n/a,n/a,9,29,Latin Christendom,r,n/a,"clerk, people","c, s",g,n/a,,534,"m, f",inf,,All titles listed. Adressed generally to all faithful. ,,,map,41.88333333,12.5
+1082/3,n/a,n/a,9,30,Saint-Victor,p,Marseilles,abbot,c,i,n/a,,671,m,"inf, ins",,Located as Marseilles as this is where Saint-Victor is. Date here seperated by hyphen in register but slash used for consistency. ,[43.2964],[5.37],map,41.88333333,12.5
+1083,n/a,n/a,9,31,"Saint-Pol-sur-Ternoise, Quesques ",p,,"subdefensor, count",s,si,n/a,,367,m,w,,Located as Saint-Pol and Quesques as the two recipients as noted in footnotes are mentioned in Reg. 6.8. Eustace is mentioned among the counts of Saint-Pol and Oilardus as the 'subadvocate' of Quesques. ,"[50.3797, 50.7042]","[2.335, 1.9336]",map,41.88333333,12.5
+1082/3,n/a,n/a,9,32,Die,p,Die Cathedral,legate,c,i,n/a,,588,m,"ins, inf",,"Have put Die as Legate is Hugh of Die. Explicitly mentions register, about finding letter they have written. Also mentions forgery.",[44.75222222],[5.37111111],map,41.88333333,12.5
+1083,n/a,n/a,9,33,Lyons,p,Lyon,archbishop,c,i,n/a,,493,m,"ins, inf",,Lyons located as Lyon to assist mapping. ,[45.76],[4.84],map,41.88333333,12.5
+1083,n/a,n/a,9,34,Flanders,p,Bruges,count,s,i,n/a,,490,m,"w, inf, ins",,Gregory here criticises the tone of letter he is recieving from the Count Robert I of Flanders. ,[51.21666667],[3.23333333],map,41.88333333,12.5
+1083,n/a,n/a,9,35,"Flanders, Cambrai, Noyon, Amiens",p,"Bruges, Cambrai, Noyon, Amiens","bishop, prince, noble","c, s",g,n/a,,2227,m,"ins, inf",,Have listed all titles. Have put Flanders and all stated locations of named bishops. ,"[51.21666667, 50.1767, 49.5817, 49.892]","[3.23333333, 3.2356, 2.9997, 2.299]",map,41.88333333,12.5
+1083,n/a,n/a,9,35a,n/a,n/a,,n/a,n/a,n/a,Rome,,361,n/a,n/a,,Written record of November Synod of 1083. Date provided is 'after 20 November 1083'.,,,NO MAP,41.88333333,12.5
+1083,n/a,n/a,9,36,Flanders,p,,count,s,i,n/a,,348,m,w,,Date provided is late 1083. ,[51],[4.5],map,41.88333333,12.5
+1083,n/a,n/a,9,37,England,r,London,king,s,i,n/a,,571,m,"e, w",,"King taken to be in London. Register breaks off at the end of this point, as noted in footnotes by Cowdrey. E and W as recounts friendship and stresses it but still criticises action taken. ",[51.50722222],[-0.1275],map,41.88333333,12.5
